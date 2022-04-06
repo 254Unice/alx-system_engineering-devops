@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 0x00-shell_basics
+rm /tmp/my_first_directory/betty
